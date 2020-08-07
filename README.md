@@ -14,3 +14,4 @@ A command line interface for contact management system
   
   node contact.js updateContact|u <_id>  --- Update contact
 
+<img src="./example.gif" />
